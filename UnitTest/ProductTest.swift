@@ -80,7 +80,7 @@ final class ProductTest: XCTestCase {
             }
             .store(in: &cancellables)
         
-        await dataRepository.getProduct(id: 1, isOffline: false)
+        await dataRepository.getProduct(id: 1, isOffline: true)
     }
 
     func testPerformanceExample() throws {
