@@ -1,0 +1,28 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "no.connection.msg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Oops! It seems you are on offline mode.\\nCheck your internet connection\\nand try again."
+          }
+        }
+      }
+    },
+    "product.details" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Product Details"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
